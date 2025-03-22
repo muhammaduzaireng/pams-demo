@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/muhammaduzaireng/pams-demo.git/static/css/main.ec4f608c.css",
+    "main.js": "/muhammaduzaireng/pams-demo.git/static/js/main.73888557.js",
+    "static/js/453.409f3e57.chunk.js": "/muhammaduzaireng/pams-demo.git/static/js/453.409f3e57.chunk.js",
+    "index.html": "/muhammaduzaireng/pams-demo.git/index.html",
+    "main.ec4f608c.css.map": "/muhammaduzaireng/pams-demo.git/static/css/main.ec4f608c.css.map",
+    "main.73888557.js.map": "/muhammaduzaireng/pams-demo.git/static/js/main.73888557.js.map",
+    "453.409f3e57.chunk.js.map": "/muhammaduzaireng/pams-demo.git/static/js/453.409f3e57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec4f608c.css",
+    "static/js/main.73888557.js"
+  ]
+}
