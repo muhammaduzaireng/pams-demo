@@ -6,6 +6,7 @@ import Dashboard from './pages/Dashboard';
 import Employees from './pages/Employees';
 import Clients from './pages/Clients';
 import Appointments from './pages/Appointments';
+import AddAppointment from './pages/AddAppointment';
 import NotFound from './pages/NotFound';
 import { Container, Row, Col } from 'react-bootstrap';
 import './App.css'; // Ensure you have this file for custom styles
@@ -28,6 +29,7 @@ function App() {
                   <Route path="/employees" element={<Employees />} />
                   <Route path="/clients" element={<Clients />} />
                   <Route path="/appointments" element={<Appointments />} />
+                  <Route path="/appointments/add" element={<AddAppointment />} />
                   <Route path="*" element={<NotFound />} />
                 </Routes>
               </div>
